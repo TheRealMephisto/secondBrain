@@ -1,0 +1,3 @@
+> [!info] Note
+> Throw in stuff that you don't want to organize right now, but that you wan't to put in the folders 1, 2, 3 later on...
+
