@@ -1,6 +1,7 @@
 > [!success] Hey you!
 >
 This is your Second Brain.
+Aka your starting point. I'm a [template](https://github.com/TheRealMephisto/secondBrain).
 
 Notes in text form only! No "large files" (aka pdf, high resolution pictures, ...)
 
